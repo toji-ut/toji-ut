@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+## This is my Github. I recently began my software engineering journey. So far so good...
 
 # Programming Languages
 
