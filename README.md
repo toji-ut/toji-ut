@@ -1,4 +1,2 @@
-Hi {first_name}, </br> </br>
 This is my GitHub. </br> </br>
-Not the best, but it'll do.  </br> </br>
-So far so good... </br> </br>
+![i-use-vim-i-use](https://github.com/toji-ut/toji-ut/assets/107822013/6043eaad-33f9-4de1-a562-186bc5f9efbf)
