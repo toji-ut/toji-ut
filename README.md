@@ -1,1 +1,1 @@
-![i-use-vim-i-use](https://github.com/toji-ut/toji-ut/assets/107822013/6043eaad-33f9-4de1-a562-186bc5f9efbf)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+hate+programming)](https://git.io/typing-svg)
